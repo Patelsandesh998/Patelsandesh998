@@ -6,3 +6,4 @@ I’ve worked on projects like **Nava AI**, **E-commerce App**, and **Virtual As
 🔧 Tech Stack: React, Node.js, Express, MongoDB, Tailwind CSS, JavaScript, C++,C# and Java  
 🚀 Passionate about bridging Web Development with Artificial Intelligence  
 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/sandesh-patel-aab32b284/) | [Portfolio](https://sandeshpatel123.netlify.app/)
+Email: patelsandesh998@gmail.com
