@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @Patelsandesh998
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## 👋 Hello, I'm Sandesh Patel!
 
-<!---
-Patelsandesh998/Patelsandesh998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-- 👋 Hi, I’m @Patelsandesh998
+I'm a **Full-Stack Developer** and **AI Enthusiast** with a strong interest in building intelligent and scalable web applications.  
+I’ve worked on projects like **Nava AI**, **E-commerce App**, and **Virtual Assistant using MERN Stack**.  
+
+🔧 Tech Stack: React, Node.js, Express, MongoDB, Tailwind CSS, and Python  
+🚀 Passionate about bridging Web Development with Artificial Intelligence  
+📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/sandesh-patel-aab32b284/) | [Portfolio](shpatel123.netlify.app)
