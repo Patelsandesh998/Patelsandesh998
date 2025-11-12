@@ -14,8 +14,9 @@ Email: patelsandesh998@gmail.com
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00C4FF&width=600&lines=Hi+I'm+Sandesh+Patel;Full+Stack+Developer;Based+in+Nepal;AI+Enthusiast;Open+Source+Contributor" alt="Sandesh Patel Animation" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,tailwind,python,tensorflow,html,css,mysql,git,github,vercel,netlify" />
 </p>
+
 
 ---
 
