@@ -28,7 +28,7 @@ It features chat, voice input, light/dark mode, and AI-assisted analytics — in
 🛠️ *Tech Stack:* React, Vite, Tailwind, TypeScript, OpenAI API  
 📍 *Features:* AI chat, voice commands, glassmorphism UI, dark/light theme  
 🔗 [Live Demo (Coming Soon)](#)  
-💻 [Source Code](#)
+💻 [Source Code](https://github.com/Patelsandesh998/Open-Manus-AI)
 
 ---
 
@@ -37,7 +37,7 @@ A complete **MERN stack e-commerce platform** that includes product listings, ca
 🛠️ *Tech Stack:* MongoDB, Express, React, Node.js  
 📍 *Features:* Authentication, Stripe payments, Admin dashboard, Product CRUD  
 🔗 [Live Demo (Coming Soon)](#)  
-💻 [Source Code](#)
+💻 [Source Code](https://github.com/Patelsandesh998/Ecommerce-App)
 
 ---
 
@@ -47,7 +47,7 @@ A **Deep Learning model** that detects human emotions from voice using **TensorF
 🛠️ *Tech Stack:* Python, TensorFlow, NumPy, Librosa  
 📍 *Features:* Audio preprocessing, emotion detection, dataset training  
 🔗 [Live Demo (Coming Soon)](#)  
-💻 [Source Code](#)
+💻 [Source Code](https://github.com/Patelsandesh998/Speech-Emotion-Recoginzation-using-Deep-Learning)
 
 ---
 
@@ -55,8 +55,8 @@ A **Deep Learning model** that detects human emotions from voice using **TensorF
 A smart **voice-powered virtual assistant** that can perform basic tasks, web searches, and AI-powered responses.  
 🛠️ *Tech Stack:* MERN Stack, SpeechRecognition API, OpenAI API  
 📍 *Features:* Voice commands, task automation, AI chat interface  
-🔗 [Live Demo (Coming Soon)](#)  
-💻 [Source Code](#)
+🔗 [Live Demo ](https://virtualassistant07.onrender.com/signup)  
+💻 [Source Code](https://github.com/Patelsandesh998/Smart-Virtual-Assistant)
 
 ---
 
@@ -64,8 +64,8 @@ A smart **voice-powered virtual assistant** that can perform basic tasks, web se
 A **responsive and interactive portfolio website** showcasing my skills, projects, and achievements.  
 🛠️ *Tech Stack:* React, HTML, CSS, JavaScript  
 📍 *Features:* Responsive design, smooth animations, contact form  
-🔗 [Live Demo (Coming Soon)](#)  
-💻 [Source Code](#)
+🔗 [Live Demo](https://sandeshpatel123.netlify.app/)  
+💻 [Source Code](https://github.com/Patelsandesh998/Personal-website)
 
 ---
 
